@@ -1,0 +1,6 @@
+### Summary of what each file does
+* 0-print_list.c prints all the elements of a list_t list and returns the number of nodes
+* 1-list_len.c returns the number of elemnts in a linked list_t list
+* 2-add_node.c adds a new node at the beginning of a list_t list
+* 3-add_node_end.c adds a new node at the end of alist_t list.
+* 4-free_list.c frees a list_t list
